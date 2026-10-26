@@ -1,6 +1,6 @@
 /*
-Enrico Minto Spainer Tia:10419775
-Guilherme Vecchi  Tia:1048517
+Enrico Minto Spainer
+Guilherme Vecchi
 
 */
 import java.util.Scanner;
